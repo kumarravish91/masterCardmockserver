@@ -1,5 +1,5 @@
 {
-  "logi": [
+  "login": [
     {
       "id": 1,
       "title": "hello"
@@ -16,7 +16,7 @@
   "terminalId":"",
   "language":[]
 
-}
+},
 "activate": {
   "st": true,
   "msg": "SUCCESS",
@@ -27,6 +27,5 @@
   "userId":"",
   "terminalId":"",
   "language":[]
-
 }
 }
