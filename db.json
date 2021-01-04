@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "login": {
+  "loginDetails": {
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
