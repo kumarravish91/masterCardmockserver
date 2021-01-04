@@ -6,14 +6,14 @@
     }
   ],
   "loginDetails": {
-  "st": true,
+ "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
   "msgid": "",
-  "authToken":"",
-  "isoCountryCodeNum":"",
-  "userId":"",
-  "terminalId":"",
+  "authToken":"12234",
+  "isoCountryCodeNum":"12423",
+  "userId":"21341",
+  "terminalId":"21341",
   "language":[]
 
 },
@@ -22,10 +22,10 @@
   "msg": "SUCCESS",
   "devErrorMessage": "",
   "msgid": "",
-  "authToken":"",
-  "isoCountryCodeNum":"",
-  "userId":"",
-  "terminalId":"",
+  "authToken":"12234",
+  "isoCountryCodeNum":"12423",
+  "userId":"21341",
+  "terminalId":"21341",
   "language":[]
 }
 }
