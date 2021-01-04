@@ -17,4 +17,16 @@
   "language":[]
 
 }
+"activate": {
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "authToken":"",
+  "isoCountryCodeNum":"",
+  "userId":"",
+  "terminalId":"",
+  "language":[]
+
+}
 }
