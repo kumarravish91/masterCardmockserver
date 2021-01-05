@@ -65,7 +65,43 @@
   },
   "syncIssuers":
   {
-    
+    {
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "issuers": [
+    {
+      "id": "5fbd544bf9dcbc6ac2e9f843",
+      "isoCountryCodeNum": "112",
+      "name": "IDFC FIRST BANK",
+      "description": "IDFC FIRST BANK",
+      "status": "0",
+      "displayName": "IDFC FIRST BANK",
+      "sortOrder": 10,
+      "images": [
+        
+      ]
+    },
+    {
+      "id": "5fbd544bf9dcbc6ac2e9f843",
+      "name": "IDFC FIRST BANK",
+      "description": "Axis Bank",
+      "status": "0",
+      "displayName": "Axis Bank",
+      "sortOrder": "342",
+      "images": [
+        {
+          "screenType": "ISSUERICON",
+          "screenTypeCode": "200",
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa",
+          
+        }
+      ]
+    }
+  ],
+  "mdafter": "1593072009676"
+}
   }
   
 }
