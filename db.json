@@ -78,14 +78,14 @@
       "description": "IDFC FIRST BANK",
       "status": "0",
       "displayName": "IDFC FIRST BANK",
-      "sortOrder": 10,
+      "sortOrder": "10",
       "images": [
         
       ]
     },
     {
-      "id": "5fbd544bf9dcbc6ac2e9f843",
-      "name": "IDFC FIRST BANK",
+      "id": "34235135134",
+      "name": "Axis Bank",
       "description": "Axis Bank",
       "status": "0",
       "displayName": "Axis Bank",
@@ -94,8 +94,7 @@
         {
           "screenType": "ISSUERICON",
           "screenTypeCode": "200",
-          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa",
-          
+          "resourceId": "20180813b9d668e1-8782-4437-b62c-e8aa916ca6fa"
         }
       ]
     }
