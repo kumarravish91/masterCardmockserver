@@ -13,7 +13,7 @@
 
 },
 "activate":
-  {
+{
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
@@ -23,11 +23,38 @@
   "userId":"21341",
   "terminalId":"21341",
   "language":[]
-  },
-  "logout":{
+},
+"logout":
+{
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
   "msgid": ""
+},
+  
+"syncBrands":
+  {
+    "st": true,
+    "msg": "SUCCESS",
+    "devErrorMessage": "",
+    "msgid": "",
+    "brands": [
+			 {
+                "id": "5fbd544bf9dcbc6ac2e9f843",
+                "name": "ELICA",
+                "displayName": "ELICA",
+                "sortOrder": 100,
+                "images": [],
+              },
+              {
+               "id": "5gbd544bf9dcbc6ac2e9f843",
+               "name": "KTM",
+               "displayName": "KTM",
+               "sortOrder": 100,
+               "images": [],
+              }
+            ],
+    "mdafter": 1604046117519
 }
+  
 }
