@@ -1,11 +1,6 @@
 {
-  "login": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "loginDetails": {
+  "loginDetails":
+  {
  "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
@@ -17,7 +12,8 @@
   "language":[]
 
 },
-"activate": {
+"activate":
+  {
   "st": true,
   "msg": "SUCCESS",
   "devErrorMessage": "",
@@ -27,5 +23,11 @@
   "userId":"21341",
   "terminalId":"21341",
   "language":[]
+  },
+  "logout":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": ""
 }
 }
