@@ -97,5 +97,24 @@
         ]
       }
     ]
-  }
+  },
+  "syncTenures":{
+  "st": true,
+  "msg": "SUCCESS",
+  "devErrorMessage": "",
+  "msgid": "",
+  "mdafter": "1598471985926",
+  "tenures": [
+    {
+      "tenure": "3",
+      "status": "0",
+      "displayName": "3 months"
+    },
+    {
+      "tenure": "6",
+      "status": "0",
+      "displayName": "6 months"
+    }
+  ]
+}
 }
