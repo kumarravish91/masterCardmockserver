@@ -6,7 +6,15 @@
     "msgid": "",
     "mdafter": 1604046117519,
     "brands": [
-     
+     {
+        "id": "5fbd544bf9dcbc6ac2e9f843",
+        "name": "ELICA",
+        "displayName": "ELICA",
+        "sortOrder": 100,
+        "images": [
+          
+        ]
+      }
     ]
   }
 }
